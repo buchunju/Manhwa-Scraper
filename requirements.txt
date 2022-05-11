@@ -1,0 +1,4 @@
+requests
+imghdr
+pillow
+beautifulsoup4
